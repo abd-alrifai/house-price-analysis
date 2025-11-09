@@ -84,6 +84,10 @@ SalePrice = b_0 + b_1*OverallQual + b_2*GrLivArea + b_3*GarageCars + b_4*TotalBs
 - The regression model explains a large portion of the variance in housing prices.
 
 ---
+##  Dataset
+You can download the dataset used in this project from the following link:
+
+ [Download Dataset (Google Drive)](https://drive.google.com/file/d/1qxaNXt_Vcg_CDjqr2R1qkVXM_evpruxm/view?usp=sharing)
 
 ##  Credits
 Developed by **Abdulrhman Alrifai** as part of a **training project** in collaboration with a company program to strengthen skills in:
